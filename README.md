@@ -1,5 +1,5 @@
 # REST API - Filter (More) Fields
-Filter (more) fields returned by the WP Rest API with deep filters, using syntax similar to [Facebook's Graph API](http://bit.ly/2a6cULe). Basically saves bandwidth.
+Filter (more) fields returned by the WP Rest API with deep filters, using syntax similar to [Facebook's Graph API](http://bit.ly/2a6cULe).
 
 
 ### Steps to success:
